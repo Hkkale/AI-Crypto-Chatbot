@@ -21,7 +21,7 @@ public class CoinDto {
     private double marketCapChange24h;
     private double marketCapChangePercentage24h;
     private double circulatingSupply;
-    private  double totalSupply;
+    private double totalSupply;
     private long ath;
     private long authChangePercentage;
     private Date athDate;
